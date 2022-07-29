@@ -81,7 +81,7 @@ UPDATE test
 SET email = 'whyisitalwaysbarrels@yourmomma.com'
 WHERE birthday = '1904-12-29';
 
-Soru 4
+-- Soru 4
 DELETE FROM test
 WHERE name = 'Francisco';
 
